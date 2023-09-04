@@ -12,3 +12,5 @@
 [Alice in wonderland Package](https://assetstore.unity.com/packages/3d/environments/fantasy/alice-in-wonderland-package-162728)
 
 1.  방 만들기 → 게임방 이동
+2.  방 입장 - 필터링 → 게임방 이동
+3.  채팅 : 머리 위 말풍선(5초)
