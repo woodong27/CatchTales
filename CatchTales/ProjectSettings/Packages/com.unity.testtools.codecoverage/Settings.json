@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:16de838f0753dba4e81fd123a67ac6cb4d966aaa0ac49d63d2990df49ec7d49d
-size 185
+{
+    "m_Name": "Settings",
+    "m_Path": "ProjectSettings/Packages/com.unity.testtools.codecoverage/Settings.json",
+    "m_Dictionary": {
+        "m_DictionaryValues": []
+    }
+}
