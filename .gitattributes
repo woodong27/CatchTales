@@ -1,3 +1,2 @@
-CatchTales/ filter=lfs diff=lfs merge=lfs -text
-CatchTales/* filter=lfs diff=lfs merge=lfs -text
+CatchTables/* filter=lfs diff=lfs merge=lfs -text
 *.* filter=lfs diff=lfs merge=lfs -text
