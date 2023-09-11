@@ -1,17 +1,3 @@
-%YAML 1.1
-%TAG !u! tag:unity3d.com,2011:
---- !u!1045 &1
-EditorBuildSettings:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Scenes:
-  - enabled: 0
-    path: Assets/Scenes/Lobby.unity
-    guid: a59f1e73c258fca4a9c7905056637a13
-  - enabled: 0
-    path: Assets/Scenes/Red Riding Hood.unity
-    guid: 7ceb61c8816e93f47aa20565e4f330e2
-  - enabled: 1
-    path: Assets/Red Riding Hood.unity
-    guid: 9def270177b8fd44b817473dbbfd5a84
-  m_configObjects: {}
+version https://git-lfs.github.com/spec/v1
+oid sha256:be9b954fe5bca5ee1c60c0e0d4e417ccad07186dee22dffcfe64e8e7e8f0ad6f
+size 523
