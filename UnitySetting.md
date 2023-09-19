@@ -8,3 +8,10 @@ Size : 20
 
 ## Interaction
 ![image-1.png](./UnitySettingImg/Interaction.png)
+
+
+
+Player
+
+- Other Settings
+  - Dynamic Batching 체크
