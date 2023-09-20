@@ -9,14 +9,19 @@ Size : 20
 ## Interaction
 ![image-1.png](./UnitySettingImg/Interaction.png)
 
+## Player
 
+- Other Settings
+  - Dynamic Batching 체크
+
+## Physics
+- Gravity Y -15
 - Assets
   - Assets
     - MedievalHouse
       - Materials
         - Medieval_house_house -> Enable Instancing 체크
 
-Player
 
-- Other Settings
-  - Dynamic Batching 체크
+
+
